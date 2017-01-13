@@ -3,7 +3,7 @@
 This repository contains the code for the course project of the Data Science Track course: "Getting and Cleaning Data"
 
 #Course Project Goals:
-You should create one R script called run_analysis.R that does the following:
+R script called run_analysis.R was created which:
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
