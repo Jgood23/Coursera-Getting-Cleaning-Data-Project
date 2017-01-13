@@ -1,5 +1,7 @@
 # Coursera-Getting-Cleaning-Data-Project
 
+This repository contains the code for the course project of the Data Science Track course: "Getting and Cleaning Data"
+
 #Course Project Goals:
 You should create one R script called run_analysis.R that does the following:
 
